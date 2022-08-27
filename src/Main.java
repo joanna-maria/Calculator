@@ -3,5 +3,6 @@ public class Main {
         Calculator calculator = new Calculator();
         System.out.println(calculator.add(5,6));
         System.out.println(calculator.subtract(10,4));
+
     }
 }
